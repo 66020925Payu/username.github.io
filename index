@@ -1,0 +1,7 @@
+cd username.github.io
+
+echo "Hello World" > index.html
+
+style.css
+
+script.js
